@@ -20,7 +20,7 @@ public class StatisticsServiceTest {
 
 
     @Test
-    void findMaxMaximum13() {
+     void findMaxMaximum13() {
         StatisticsService service = new StatisticsService();
 
         long[] incomesInBillions = {12, 5, 8, 4, 5, 3, 8, 6, 11, 11, 13};
